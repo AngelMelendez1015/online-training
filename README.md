@@ -25,9 +25,6 @@
   -  Web job background task (Apply later)
   -  Elasticsearch (Apply later)
 
-### Account Info
-* username: phucngo
-* pass: 070695
 
 ### Ref doc
 
